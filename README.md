@@ -1,4 +1,11 @@
 # up206a-jorge
-I am a graduate student within UCLA's Urban and Regional Planning program. My professional experience includes working as the City of Gardena's Planning Technician. 
-I am interested in researching the use of Accessory Dwelling Units (ADU's) to combat the housing shortage within the Los Angeles County Region. Specifcally looking into how many ADUs have been constructed and legalized, their located and their average rental cost. I am also interested in looking at the conversion of commercial land uses into potential housing development. The Covid-19 pandemic has caused numerous businesses to foreclose and its long lasting impacts will make it difficult to successulfy operate; thus, there is the potential to re-zone land and re-purpose buildings.
-The Introduction to GIS course is designed to teach students a variety of different programs that will help them gather data and convert it to various forms of visual communication. My objectives for this course is to be able to find readily available data and create clear, analytical graphs that anyone can understand. 
+
+**Bio:** UCLA Graduate Student/ LMU Alumn/ LA Native/ Football is Life 
+
+**Course Description:** This course is designed to familiarize students with the world of spatial data. Students will be introduced to various programs that will allow them to effectively analyze and gather geographical data for the purposes of creating visual maps and graphics. Students will conduct spatial analyses across key sectors such as Ecoonmics, Environement Justice and Climate Change, Housing, Transportation etc. to prvide factual based research and advocate for Public Policy and Urban Planning methods. 
+
+**Research Interests:** Accessory Dwelling Units (ADU's), COVID-19 Impact, Affordable Housing and Real Estate Development 
+
+**Objectives:** Survive. To learn the basics of coding. To become knowedlgeable of the various programs and platforms that exist out there for Urban Planners.
+
+
